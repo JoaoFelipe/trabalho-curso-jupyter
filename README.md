@@ -20,7 +20,7 @@ Neste trabalho, o pandas deve ser usado em um notebook Jupyter para juntar pontu
 
 3. Exiba boxplots para as notas de cada exercício e para as médias.
 
-   Preferencialmente todas devem estar no mesmo gráfico, com intervalo de 0 a 100.
+   Preferencialmente todas devem estar no mesmo gráfico, com intervalo de 0 a 100. Além disso, o boxplot não deve incluir médias de pessoas que não fizeram nenhum dos exercícios.
 
 4. Crie uma mágica ou widget para consultar a média de alguma pessoa usando suas iniciais.
 
